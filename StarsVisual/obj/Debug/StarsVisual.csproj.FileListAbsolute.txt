@@ -4,3 +4,9 @@ C:\Users\Administrator\Documents\SharpDevelop Projects\StarsVisual\StarsVisual\b
 C:\Users\Administrator\Documents\SharpDevelop Projects\StarsVisual\StarsVisual\bin\Debug\StarsVisual.pdb
 C:\Users\Administrator\Documents\SharpDevelop Projects\StarsVisual\StarsVisual\obj\Debug\StarsVisual.exe
 C:\Users\Administrator\Documents\SharpDevelop Projects\StarsVisual\StarsVisual\obj\Debug\StarsVisual.pdb
+C:\Users\Administrator\Documents\GitHub\StarsVisual\StarsVisual\bin\Debug\StarsVisual.exe.config
+C:\Users\Administrator\Documents\GitHub\StarsVisual\StarsVisual\bin\Debug\StarsVisual.exe
+C:\Users\Administrator\Documents\GitHub\StarsVisual\StarsVisual\bin\Debug\StarsVisual.pdb
+C:\Users\Administrator\Documents\GitHub\StarsVisual\StarsVisual\obj\Debug\StarsVisual.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\StarsVisual\StarsVisual\obj\Debug\StarsVisual.exe
+C:\Users\Administrator\Documents\GitHub\StarsVisual\StarsVisual\obj\Debug\StarsVisual.pdb

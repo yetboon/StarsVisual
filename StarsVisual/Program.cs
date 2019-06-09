@@ -6,7 +6,7 @@ namespace StarsVisual
 	{
 		
 		// 变量
-		static int starsLimit = 5;
+		static int starsLimit = 10;
 		
 		// 主程式
 		public static void Main(string[] args)
